@@ -1,6 +1,6 @@
 # 💻 David Santos
 
-**`Desenvolvedor FullStack`**
+<h3> **`Desenvolvedor FullStack JavaScript`** </h3>
 
 <img src="https://custom-icon-badges.demolab.com/badge/Rio%20de%20janeiro-BRA-verde?style=for-the-badge&logo=location&logoColor=white">
 
