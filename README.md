@@ -3,8 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro computador foi um AMD Athlon de 1Ghz e 2gb de ram, lá em 2005. Tive diversos problemas com ele e foi assim que eu me apaixonei por tecnologia. Desde então, já fiz diversos cursos na área de infraestrutura TI e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou apaixonado por tecnologia e compartilhar meus conhecimentos.
-
-    <hr>
     
     </a>
     <a href="https://github.com/David-santos-rj?tab=repositories&sort=stargazers">
