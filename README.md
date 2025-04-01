@@ -1,27 +1,14 @@
-# 👩🏻‍💻 David Santos
+# 💻 David Santos
 
 **`Desenvolvedor FullStack`**
 
-Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro computador foi um AMD Athlon de 1Ghz e 2gb de ram, lá em 2005. Tive diversos problemas com ele e foi assim que eu me apaixonei por tecnologia. Desde então, já fiz diversos cursos na área de infraestrutura TI e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou apaixonado por tecnologia e compartilhar meus conhecimentos.
-    
-    </a>
-    <a href="https://github.com/David-santos-rj?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/David-santos-rj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/David-santos-rj?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/David-santos-rj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<img src="https://custom-icon-badges.demolab.com/badge/Rio%20de%20janeiro-BRA-verde?style=for-the-badge&logo=location&logoColor=white">
 
----
+<img  
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"/>
+Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro computador foi um AMD Athlon de 1Ghz e 2gb de ram, lá em 2005. Tive diversos problemas com ele e foi assim que eu me apaixonei por tecnologia. Desde então, já fiz diversos cursos na área de infraestrutura TI e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou apaixonado por tecnologia e compartilhar meus conhecimentos.
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -103,7 +90,7 @@ Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro c
     title="AngularJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
 <img 
     align="left" 
@@ -143,6 +130,9 @@ Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro c
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=David-santos-rj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    
+<br/>
+<br/>
 
 <img 
       align="left" 
