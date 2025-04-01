@@ -130,15 +130,4 @@ Me chamo David dos Santos, tenho 31 anos e sou do Rio de Janeiro. Meu primeiro c
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=David-santos-rj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    
-<br/>
-<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-santos-rj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
